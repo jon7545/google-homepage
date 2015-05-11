@@ -1,1 +1,1 @@
-#Cloning Google homepage
+#A clone of the Google homepage
