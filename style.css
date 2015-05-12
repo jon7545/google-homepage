@@ -10,7 +10,7 @@ body {
   padding: 0;
   overflow: hidden;
   color: #333;
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", arial, sans-serif;
   display: flex;
   flex-direction: column;
 }
@@ -94,7 +94,7 @@ input[type="submit"] {
   border: solid 1px #ccc;
   border-radius: 2px;
   background: #f1f1f1;
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", arial, sans-serif;
   color: #333;
 }
 
